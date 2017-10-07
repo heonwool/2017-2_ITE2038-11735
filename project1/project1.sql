@@ -7,7 +7,7 @@ SELECT DISTINCT type FROM Pokemon;
 
 SELECT name FROM Pokemon ORDER BY name ASC;
 SELECT name FROM Pokemon WHERE name LIKE '%s' OR name LIKE '%S';
-SELECT name FROM Pokemon WHERE name LIKE '%e%s';
+SELECT name FROM Pokemon WHERE name LIKE '%e%s' OR name LIKE '%e%S' OR name LIKE '%E%s' OR name LIKE '%E%S';
 SELECT name FROM Pokemon WHERE (name LIKE 'A%' OR name LIKE 'E%' OR name LIKE 'I%' OR name LIKE 'O%' OR name LIKE 'U%');
 SELECT type, COUNT(*) FROM Pokemon GROUP BY type; 
 
@@ -35,3 +35,4 @@ SELECT T.name, G.city FROM Gym G JOIN Trainer T ON T.id = G.leader_id JOIN Catch
 SELECT T.name, SUM(COND.level) AS 'Sum of level (50 or above)' FROM Trainer T, (SELECT G.leader_id, C.level FROM Gym G LEFT JOIN CatchedPokemon C ON G.leader_id = C.owner_id AND C.level >= 50) COND WHERE T.id = COND.leader_id GROUP BY T.name;
 SELECT P.name FROM CatchedPokemon C JOIN Pokemon P ON P.id = C.pid JOIN Trainer T ON T.id = C.owner_id AND T.hometown IN ('Sangnok City') WHERE C.pid IN (SELECT C.pid from CatchedPokemon C JOIN Trainer T ON T.id = C.owner_id AND T.hometown IN ('Blue City'));
 SELECT P.name FROM Evolution E1 JOIN Pokemon P ON E1.after_id = P.id WHERE NOT EXISTS (SELECT E2.before_id FROM Evolution E2 WHERE E1.after_id = E2.before_id);
+
