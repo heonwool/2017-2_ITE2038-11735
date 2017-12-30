@@ -1,0 +1,64 @@
+i 0 apple
+i 1 banana
+i 2 computer
+i 3 diary
+i 4 electron
+i 5 feature
+i 6 ghost
+i 7 hinder
+i 8 internal
+i 9 juice
+i 10 korea
+i 11 lion
+i 12 mountain
+i 13 naver
+i 14 opinion
+i 15 pinhole
+i 16 quick
+i 17 ring
+i 18 student
+i 19 tuple
+i 20 uber
+i 21 windows
+i 22 xylophone
+i 23 yoyo
+i 24 zoo
+i 25 Amazon
+i 26 Bubble
+i 27 Copper
+i 28 Digging
+i 29 Earphone
+i 30 Foreign
+f 0
+f 1
+f 2
+f 3
+f 4
+f 5
+f 6
+f 7
+f 8
+f 9
+f 10
+f 11
+f 12
+f 13
+f 14
+f 15
+f 16
+f 17
+f 18
+f 19
+f 20
+f 21
+f 22
+f 23
+f 24
+f 25
+f 26
+f 27
+f 28
+f 29
+f 30
+
+

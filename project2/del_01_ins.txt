@@ -1,0 +1,200 @@
+i 0 string0
+i 1 string1
+i 2 string2
+i 3 string3
+i 4 string4
+i 5 string5
+i 6 string6
+i 7 string7
+i 8 string8
+i 9 string9
+i 10 string10
+i 11 string11
+i 12 string12
+i 13 string13
+i 14 string14
+i 15 string15
+i 16 string16
+i 17 string17
+i 18 string18
+i 19 string19
+i 20 string20
+i 21 string21
+i 22 string22
+i 23 string23
+i 24 string24
+i 25 string25
+i 26 string26
+i 27 string27
+i 28 string28
+i 29 string29
+i 30 string30
+i 31 string31
+i 32 string32
+i 33 string33
+i 34 string34
+i 35 string35
+i 36 string36
+i 37 string37
+i 38 string38
+i 39 string39
+i 40 string40
+i 41 string41
+i 42 string42
+i 43 string43
+i 44 string44
+i 45 string45
+i 46 string46
+i 47 string47
+i 48 string48
+i 49 string49
+i 50 string50
+i 51 string51
+i 52 string52
+i 53 string53
+i 54 string54
+i 55 string55
+i 56 string56
+i 57 string57
+i 58 string58
+i 59 string59
+i 60 string60
+i 61 string61
+i 62 string62
+i 63 string63
+i 64 string64
+i 65 string65
+i 66 string66
+i 67 string67
+i 68 string68
+i 69 string69
+i 70 string70
+i 71 string71
+i 72 string72
+i 73 string73
+i 74 string74
+i 75 string75
+i 76 string76
+i 77 string77
+i 78 string78
+i 79 string79
+i 80 string80
+i 81 string81
+i 82 string82
+i 83 string83
+i 84 string84
+i 85 string85
+i 86 string86
+i 87 string87
+i 88 string88
+i 89 string89
+i 90 string90
+i 91 string91
+i 92 string92
+i 93 string93
+i 94 string94
+i 95 string95
+i 96 string96
+i 97 string97
+i 98 string98
+i 99 string99
+f 0
+f 1
+f 2
+f 3
+f 4
+f 5
+f 6
+f 7
+f 8
+f 9
+f 10
+f 11
+f 12
+f 13
+f 14
+f 15
+f 16
+f 17
+f 18
+f 19
+f 20
+f 21
+f 22
+f 23
+f 24
+f 25
+f 26
+f 27
+f 28
+f 29
+f 30
+f 31
+f 32
+f 33
+f 34
+f 35
+f 36
+f 37
+f 38
+f 39
+f 40
+f 41
+f 42
+f 43
+f 44
+f 45
+f 46
+f 47
+f 48
+f 49
+f 50
+f 51
+f 52
+f 53
+f 54
+f 55
+f 56
+f 57
+f 58
+f 59
+f 60
+f 61
+f 62
+f 63
+f 64
+f 65
+f 66
+f 67
+f 68
+f 69
+f 70
+f 71
+f 72
+f 73
+f 74
+f 75
+f 76
+f 77
+f 78
+f 79
+f 80
+f 81
+f 82
+f 83
+f 84
+f 85
+f 86
+f 87
+f 88
+f 89
+f 90
+f 91
+f 92
+f 93
+f 94
+f 95
+f 96
+f 97
+f 98
+f 99
